@@ -14,3 +14,6 @@ This will create your images in your assigned directory, including grabbing them
 It is recommended to make a copy of your images prior to importing. In some set ups, the reprocess does not work.
 
 Also, added a janky custom script for moving files into their assigned entry folders. ChannelImages doesn't always play nice with DataGrab.
+
+### NOTE:
+I own no rights to Datagrab, a paid plugin.
